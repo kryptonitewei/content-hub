@@ -7,4 +7,3 @@
 | 文件 | 说明 |
 |---|---|
 | [avatarclaw-original.md](./avatarclaw-original.md) | 直播虾 AvatarClaw 产品介绍原稿（Markdown，已脱敏） |
-| [avatarclaw-original.pdf](./avatarclaw-original.pdf) | 直播虾 AvatarClaw 产品介绍原稿（PDF 含图） |
